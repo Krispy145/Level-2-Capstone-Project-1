@@ -8,6 +8,6 @@ The program allows users to create and capture new projects for *‘Poised’* a
 
 This relevant information includes creating and updating contractor, architect and customer details, as well as due dates and amounts owed/paid to/from the customer.
 
-*Once projects have been finalised, the program will eventually be able to generates an invoice for the customer with the amount outstanding, if there is such.
+*Once projects have been finalised, the program will eventually be able to generates an invoice for the customer with the amount outstanding, if there is such.*
 
-The program, will also have the functionality to generate a list of all outstanding, incomplete and complete projects.*
+*The program, will also have the functionality to generate a list of all outstanding, incomplete and complete projects.*
